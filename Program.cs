@@ -22,7 +22,7 @@ else if (area > 250 && area < 650)
 {
     Console.WriteLine("This is a Medium sized room.");
 }
-else if (area >= 650)
+else
 {
     Console.WriteLine("This is a Large room.");
 }
